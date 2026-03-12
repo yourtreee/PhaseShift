@@ -32,7 +32,7 @@ training a machine learning model on the resulting structured dataset.
 ## Dataset
 ~250 CRISPR clinical trials extracted from CRISPR Medicine News using OpenAI API,
 validated against 100 manually labeled trials.
-https://www.kaggle.com/datasets/maitreyeesen/crispr-clinical-trials-dataset-2016-2025 
+Available on Kaggle: https://www.kaggle.com/datasets/maitreyeesen/crispr-clinical-trials-dataset-2016-2025 
 
 ## Files
 - `phaseshift_ml_model.py` — full ML pipeline code
